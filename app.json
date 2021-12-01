@@ -1,5 +1,5 @@
 {
-  "name": "TG File Sharing Bot",
+  "name": "ALMKCHANNEL BOT",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
@@ -10,40 +10,40 @@
   "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
   "env": {
     "TG_BOT_TOKEN": {
-      "description": "Your Bot token, Get it from @Botfather",
-      "value": ""
+      "description": "2125381114:AAEuJ7hFrnhhsWlhTWgZjZ0z4ggT1ssHdHo",
+      "value": "2125381114:AAEuJ7hFrnhhsWlhTWgZjZ0z4ggT1ssHdHo"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "1456261160"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "15800734"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "76c91d63f971fba9f118432ca5c2172c"
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-100"
+      "value": "-1001717745526"
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "https://t.me/almkkarthik"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link."
+      "value": "Hello {first}<b>click start to get movies</b>."
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\n<b>You need to join in my Channel/Group to use me\n\nKindly Please join Channel</b>"
+      "value": "Hello {first}\n\n<b>hey pls join our main group </b>"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "",
+      "value": "1456261160",
       "required": false
     }
   },
